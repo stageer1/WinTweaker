@@ -231,7 +231,7 @@ tw3_choose = ctk.CTkButton(
 tw3_choose.grid(row=0, column=1, padx=10, pady=10)
 
 def open_url(event):
-    webbrowser.open_new("https://github.com/stageer1/WinTweaks")  # Замените на нужный URL
+    webbrowser.open_new("https://github.com/stageer1/WinTweaker")  # Замените на нужный URL
 
 author = ctk.CTkLabel(
     root,
